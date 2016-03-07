@@ -1,0 +1,8 @@
+{
+  "name": "react-responsive",
+  "main": "index.d.ts",
+  "homepage": "https://github.com/contra/react-responsive",
+  "ambientDependencies": {
+    "react": "github:DefinitelyTyped/DefinitelyTyped/react/react.d.ts#945ebfe049964e429c2530971b9081f3c0f611df"
+  }
+}
